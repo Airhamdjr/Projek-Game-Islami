@@ -1,0 +1,31 @@
+Apakah Anda Pernah Mempelajari Materi Terkait Hukum Bacaan Al-Ta'rif?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t
+
+#Apakah Anda Pernah Mempelajari Materi Terkait Hukum Bacaan Mad?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t
+
+#Apakah Anda Pernah Mempelajari Materi Terkait Hukum Bacaan Nun Sukun dan Tanwin?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t
+
+#Apakah Anda Pernah Mempelajari Materi Terkait Hukum Bacaan Waqaf?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t

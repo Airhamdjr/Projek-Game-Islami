@@ -1,0 +1,25 @@
+Habib mempunyai amalan istiqamah puasa senin kamis, sementara Habib ingin berpuasa pada hari senin yang bertepatan dengan hari tasyrik. Bolehkah Habib berpuasa?
++Boleh	
++Tidak boleh
++Boleh dengan syarat
++Tidak boleh karena syarat
++B
++null
+
+%berapakah jumlah fidiyah yang harus dibayarkan untuk 1 hari puasa?
++1 mudh
++2 mudh
++3 mudh
++4 mudh
++A  
++null
+
+
+%apa hukum itikaf di bulan Ramadhan?
++Wajib
++Sunnah
++Fardlu/rukun 
++fardhu ain
++B
++null
+

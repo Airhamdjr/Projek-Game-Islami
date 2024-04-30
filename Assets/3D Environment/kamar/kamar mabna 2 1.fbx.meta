@@ -1,0 +1,197 @@
+fileFormatVersion: 2
+guid: 140312ef9e299454fbba385ecad94640
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable:
+  - first:
+      74: 4414597756593286842
+    second: Kasur|Camera.001|Camera|CameraAction.002|Camera|CameraAction.002
+  - first:
+      74: -3642464130504706325
+    second: Kasur|Cube.080|Cube.080|CameraAction.002|Cube.080|CameraAction.002
+  - first:
+      74: 784199617481493048
+    second: Kasur.001|Camera.001|Camera|CameraAction.002|Camera|CameraAction.002
+  - first:
+      74: -2175749150962870054
+    second: Kasur.001|Cube.080|Cube.080|CameraAction.002|Cube.080|CameraAction.002
+  - first:
+      74: -4856356432597608525
+    second: Kasur.002|Camera.001|Camera|CameraAction.002|Camera|CameraAction.002
+  - first:
+      74: -5074364828576179597
+    second: Kasur.002|Cube.080|Cube.080|CameraAction.002|Cube.080|CameraAction.002
+  - first:
+      74: -7321308127681143160
+    second: Kasur.003|Camera.001|Camera|CameraAction.002|Camera|CameraAction.002
+  - first:
+      74: -3579312505021037417
+    second: Kasur.003|Cube.080|Cube.080|CameraAction.002|Cube.080|CameraAction.002
+  - first:
+      74: -6191641316498129951
+    second: Kasur.005|Camera.001|Camera|CameraAction.002|Camera|CameraAction.002
+  - first:
+      74: -3549822667574216584
+    second: Kasur.005|Cube.080|Cube.080|CameraAction.002|Cube.080|CameraAction.002
+  - first:
+      74: 2508315800562122469
+    second: Kasur.004|Camera.001|Camera|CameraAction.002|Camera|CameraAction.002
+  - first:
+      74: -2176391488537022654
+    second: Kasur.004|Cube.080|Cube.080|CameraAction.002|Cube.080|CameraAction.002
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dinding.001
+    second: {fileID: 2100000, guid: e016d370ec88df54d95877521f441e09, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dipan Kayu
+    second: {fileID: 2100000, guid: 8980c75d05cf30c41a89dcdd6d4e43ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gagang Pintu
+    second: {fileID: 2100000, guid: 2d36e2918015b5e4fb49596471697ea1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_
+    second: {fileID: 2100000, guid: 9bee84f874b78a2468165201f8f587b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kasur
+    second: {fileID: 2100000, guid: 5fdc163e606a5c24ab684fcf0635dcdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kotak Jendela
+    second: {fileID: 2100000, guid: 6475ad281063eed4b9646f43657021e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lantai
+    second: {fileID: 2100000, guid: 2c30469667939cc48b000ed9e0316536, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Lemari Kayu
+    second: {fileID: 2100000, guid: a7282329c17a37a46a602f2905b6c35f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pintu
+    second: {fileID: 2100000, guid: 5d66dcbc2da44cf408e5ffef9f881bde, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Selimut
+    second: {fileID: 2100000, guid: 160aa61e67695fa428893d1557d3d633, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Tempat Kunci
+    second: {fileID: 2100000, guid: a30889d8f1fbd5d469f316f3b4949f56, type: 2}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

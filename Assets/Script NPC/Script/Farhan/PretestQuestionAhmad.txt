@@ -1,0 +1,108 @@
+Apa nama bulan dalam kalender Islam di mana umat Islam melaksanakan puasa?
++Dzulhijjah
++Rajab
++Sha'ban
++Ramadhan
++D
++NPC Ahmad
++Berpuasa
+
+#Berapakah jumlah hari puasa wajib dalam sebulan Ramadhan?
++25
++28
++29 atau 30
++40
++C
++NPC Ahmad
++BErpuasa
+
+#Apa yang harus dilakukan oleh seseorang sebelum memulai puasa Ramadan?
++Niat
++Membayar zakat
++Shalat tarawih
++Membaca Al-Qur'an
++A
++NPC Ahmad
++Berpuasa
+
+#Puasa wajib di bulan Ramadan dimulai dari...?
++Terbitnya matahari
++Terbenamnya matahari
++Tengah malam
++Waktu shalat Fajr
++D
++NPC Ahmad
++Berpuasa
+
+#Apa yang menjadi tujuan utama dari puasa Ramadan?
++Menurunkan berat badan
++Mengasah kemampuan menahan lapar dan haus
++Mendekatkan diri kepada Allah
++Menyehatkan tubuh
++C
++NPC Ahmad
++Berpuasa
+
+#Apa yang harus dilakukan jika seseorang tidak dapat berpuasa karena alasan kesehatan?
++Wajib membayar fidyah
++Tetap berpuasa tanpa menghiraukan kesehatan
++Tidak perlu melakukan apa-apa
++Menggantinya pada waktu lain jika mungkin
++D
++NPC Ahmad
++Berpuasa
+
+#Apa yang harus dilakukan oleh orang yang tidak dapat berpuasa karena kehamilan?
++Tidak perlu melakukan apa-apa
++Wajib membayar fidyah
++Menggantinya pada waktu lain jika mungkin
++Hanya boleh menggantinya jika anak sudah lahir
++C
++NPC Ahmad
++Berpuasa
+
+#Puasa sunnah yang dilaksanakan enam hari setelah Ramadan disebut...?
++Puasa Senin Kamis
++Puasa Ayyamul Bidh
++Puasa Syawal
++Puasa Daud
++C
++NPC Ahmad
++Berpuasa
+
+#Puasa sunnah pada bulan Sya'ban yang disebut "puasa Nabi Daud" adalah...?
++Puasa Ayyamul Bidh 
++Puasa Daud
++Puasa Syawal
++Puasa Tarwiyah
++B
++NPC Ahmad
++Berpuasa
+
+#Hal yang membatalkan puasa, kecuali ... ?
++Makan dengan disengaja
++Bersetubuh
++Keluar air mani dengan mubasyaroh
++Tertidur dengan lelap
++D
++NPC Ahmad
++Berpuasa
+
+#Hukum bersiwak pada siang hari (setelah Dzuhur) di bulan Ramadhan adalah ...
++Wajib
++Sunnah
++Makruh
++Haram
++C
++NPC Ahmad
++Berpuasa
+
+#Berikut ini adalah hal-hal yang membatalkan puasa, kecuali ...
++Sengaja Muntah
++Haid
++Nifas
++Berkumur
++D
++NPC Ahmad
++Berpuasa
+

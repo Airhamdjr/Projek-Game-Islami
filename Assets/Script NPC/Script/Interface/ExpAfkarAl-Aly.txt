@@ -1,0 +1,31 @@
+Apakah Anda Pernah Mempelajari Materi Terkait Tayamum dan Mandi Wajib?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t
+
+#Apakah Anda Pernah Mempelajari Materi Terkait Syarat Sah Salat?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t
+
+#Apakah Anda Pernah Mempelajari Materi Terkait Syarat Wajib Zakat?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t
+
+#Apakah Anda Pernah Mempelajari Materi Terkait Hukum Puasa dan I'tikaf?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t

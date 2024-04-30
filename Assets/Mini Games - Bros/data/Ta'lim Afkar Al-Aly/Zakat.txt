@@ -1,0 +1,23 @@
+Berikut ini adalah binatang ternak yang wajib dizakati, kecuali: 
++Sapi		 	
++Kambing 		
++Kuda 		
++Unta 
++C
++null
+
+%Siapakah yang tidak boleh diberi zakat dibawah ini? 
++Sabilillah 		
++‘Amil 		
++Masakin 		
++Hamba sahaya 
++B
++null
+
+%Berapa jumlah zakat yang wajib dibayar untuk dirinya sendiri?
++Satu sho’
++Dua sho’
++Tiga sho’
++Empat sho’
++A
++null

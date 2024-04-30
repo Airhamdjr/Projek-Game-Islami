@@ -1,0 +1,31 @@
+Apakah Anda Pernah Mempelajari Materi Terkait Berwudhu?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t
+
+#Apakah Anda Pernah Mempelajari Materi Terkait Salat Fardhu dan Sunnah?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t
+
+#Apakah Anda Pernah Mempelajari Materi Terkait Haji dan Umroh?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t
+
+#Apakah Anda Pernah Mempelajari Materi Terkait Berpuasa?
++Pernah dan Paham
++Pernah, namun Kurang Paham
++Tidak Pernah
++p
++k
++t

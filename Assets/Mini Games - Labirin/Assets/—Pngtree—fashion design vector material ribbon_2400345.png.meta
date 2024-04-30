@@ -1,0 +1,651 @@
+fileFormatVersion: 2
+guid: 35f4c1aa86ed3b94fb2a37022c389cfa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_0"
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 684
+        width: 102
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4013ab195ffe942a00847a4e2ca26f
+      internalID: 630399837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_1"
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 685
+        width: 288
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed3b6e0b9c931ed46bbd5f939fcb0863
+      internalID: -292738680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_2"
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 684
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1ed527fb0a8dc4469fc9153024cfa68
+      internalID: -988979053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_3"
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 682
+        width: 463
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fada71eb09a8048865b43b7944e110
+      internalID: 968638978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_4"
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 513
+        width: 422
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca9aabb2fcb35f54da278009631b2d1f
+      internalID: 871716484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_5"
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 537
+        width: 487
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa338c6d2c53274d98fcb9b68a2df30
+      internalID: -2013383842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_6"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 325
+        width: 386
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8d5d832cafb2644aa96f5504e0c13bc
+      internalID: -1856217235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_7"
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 381
+        width: 548
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acbda202bbd6ecb408bf15e30dba3dd0
+      internalID: 1840090161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_8"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 47
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94591d6613e751499e8225eea777f22
+      internalID: -734293503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_9"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55f05c0e72f90094eb1369e5819ab391
+      internalID: -1537447464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_10"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 47
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 584d1bbbb0a26814c9d2fa6d4c1f9c1a
+      internalID: -1065796350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_11"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 40
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1896993161700d64983f0cc11a13d8e9
+      internalID: -1395139329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_12"
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b09a52716079ad4dae0f540ff481d24
+      internalID: 1495393701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_13"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89f510ea809e1684d9559f27f1ede544
+      internalID: -2104745706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_14"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ac78bc96ec74e4792b2666d0e8f91f
+      internalID: -478301857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_15"
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97da2840be5c5384cbef811f908efa62
+      internalID: 1303058891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_16"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 40
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bb3fb8df6938f8488c89c2f4f8bc33c
+      internalID: -16567592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_17"
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 47
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21341e95f5e849445b10e34773e0633b
+      internalID: 237058307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_18"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373b0abe2d7ef624a937d9b5a7200701
+      internalID: 1274330341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_19"
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 40
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5f3fd476b0f3409b86594389072b4
+      internalID: -1805355288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_20"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 47
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245b37127d094254fa18d63622d97e5b
+      internalID: 791785580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_21"
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 47
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b75bd2ee27b9f424e8f5ea903ddf3730
+      internalID: 1956608104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_22"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ad6afea7e298f4fa92fa36966a3b69
+      internalID: -1549505937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_23"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d48e461a45b0604c98cd6712be66eb9
+      internalID: 2024000463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3d79e0065e8d88b44b09182f9b8f6385
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_21": 1956608104
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_10": -1065796350
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_23": 2024000463
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_22": -1549505937
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_12": 1495393701
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_14": -478301857
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_5": -2013383842
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_4": 871716484
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_20": 791785580
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_3": 968638978
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_16": -16567592
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_1": -292738680
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_8": -734293503
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_0": 630399837
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_18": 1274330341
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_19": -1805355288
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_2": -988979053
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_9": -1537447464
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_7": 1840090161
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_15": 1303058891
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_6": -1856217235
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_13": -2104745706
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_17": 237058307
+      "\u2014Pngtree\u2014fashion design vector material ribbon_2400345_11": -1395139329
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

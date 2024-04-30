@@ -1,0 +1,120 @@
+Waqof menurut bahasa artinya...
++A. Berjalan				
++B. Berhenti
++C. Berdiam				
++D. Berputar
++B
++null
+
+%Terdapat.....tanda waqof  yang masyhur dalam ilmu Tajwid
++A. 3 					
++B. 12
++C. 4 					
++D. 13
++D
++null
+
+%Menurut Imam Hafs ‘an ‘Ashim waqof dibagi menjadi....
++A. 3					
++B. 12
++C. 4					
++D.13
++A					
++null
+
+%Dalam pembagian waqof  menurut Imam Hafs ‘an ‘Ashim, terdapat Waqof Raum yang artinya ..
++A. Menghentikan
++B. Memotong 
++C. Meminimalisasi suara huruf yang akhir
++D. Memulai
++C
++null
+
+%Qath’u menurut bahasa berarti ..
++A. Menghentikan				 
++B. Meminimalisasi suara huruf yang akhir
++C. Memotong				 
++D. Memulai
++C				 
++null
+
+%Hukum seorang Qari’ berhenti dengan tanpa mengulang ayat sesudahnya menurut pendapat Ulama’ Ahlul Qurro’ yaitu .. 
++A. Tidak Boleh			
++B. Jawaz
++C. Makruh				 
++D. Haram
++B
++null
+
+%Hukum membaca waqof ز dan س adalah 
++A. Boleh terus, berhenti lebih baik
++B. Boleh berhenti, terus lebih baik
++C. Boleh berhenti, boleh tidak berhenti
++D. Boleh berhenti
++B
++null
+
+%Hukum membaca waqofقلى  adalah....
++A. Berhenti lebih baik
++B. Boleh berhenti, terus lebih baik
++C. Boleh berhenti, boleh tidak berhenti
++D. Boleh berhenti 
++A
++9
+
+%Waqof Mujawwaz ditandai dengan huruf ..
++A. Jim					
++B. Za’
++C. Lam Alif			 
++D. Mim
++B
++null
+
+%Di bawah ini yang tidak termasuk pembagian waqaf ..
++A. Idlthirori				
++B. Inthidhori
++C. Ikhtiyari			
++D. Ishtibari
++D
++null
+
+%Waqaf  Idlthirori artinya ..
++A. Berhenti karena menunggu		
++B. Berhenti karena terpaksa
++C. Berhenti untuk diuji			
++D. Berhenti pada kalimat pilihan
++B
++null
+
+%Dibawah ini yang bukan tempat waqaf tam ...
++A. Diakhir ayat qishos
++B. Ada di akhir semua surat
++C. Diakhir ayat ditambah sedikit awal ayat
++D. Di tengah-tengah kata
++D
++null
+
+%Hukum Waqaf  Qobih adalah..
++A. Boleh				
++B. Wajid
++C. Sunnah				
++D. Tidak Boleh
++D
++null
+
+
+%Waqof ikhtiyari dibagi menjadi….
++A. 6
++B. 3
++C. 4
++D. 2
++C
++null
+
+%Jika berhenti dalam suatu kalimat ini maka seorang qori’ tidak perlu mengulangi dengan kalimat sesudahnya karena masih ada kaitan arti dengan kalimat sesudahnya disebut waqaf….
++A. Waqaf kafi
++B. Waqaf taam
++C. Waqaf hasan
++D. Waqaf qobih
++A
++null

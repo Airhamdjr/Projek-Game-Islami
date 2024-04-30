@@ -1,0 +1,31 @@
+Idgham secara bahasa artinya.....
++A. Memasukkan		
++B. Terang
++C. Mendengung			
++D. Panjang
++A
++null
+
+%Halqi artinya ..
++A. Hidung				
++B. Mulut
++C. Tenggorokan			
++D. Lidah
++C
++null
+
+%Lafadz أَنهَارٍ مِنْ adalah contoh dari bacaan.... 
++A. Idzhar Syafawi			
++B. Idzhar Halqi
++C. Idghom Bighunnah			
++D. Idghom Bilaghunnah
++B
++7
+
+%Dalam contoh بُنْيَانٌ terdapat bacaan ...
++A. Idzhar Wajib			
++B. Idzhar Halqi
++C. Ikhfa Syafawi		
++D. Idzhar Syafawi
++A	
++8

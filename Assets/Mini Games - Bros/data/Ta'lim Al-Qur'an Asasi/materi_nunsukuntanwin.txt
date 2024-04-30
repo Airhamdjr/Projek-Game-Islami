@@ -1,0 +1,40 @@
+Idzhar secara bahasa artinya ....
++A. Samar
++B. Dengung 	
++C. Terang
++D. Panjang
++C
++null
+
+%Huruf ikhfa’ berjumlah... 
++A. 10 	
++B. 12	
++C. 11		
++D. 15
++D
++null
+
+%Definisi dari hukum bacaan iqlab adalah... .
++A. Apabila nun sukun atau tanwin bertemu dengan huruf ل ر 
++B. Apabila nun sukun atau tanwin bertemu dengan ق ك
++C. Apabila nun sukun atau tanwin bertemu dengan   ب 
++D. Apabila nun sukun atau tanwin bertemu dengan ء ه ح خ ع غ
++C
++null
+
+%Jika ada nun  mati atau tanwin bertemu huruf يَنْمُوْ  maka dinamakan bacaan ...
++A. Idzhar Halqi 
++B. Idzhar Muthlaq
++C. Iqlab 		
++D. Idghom Bighunnah
++D
++null
+
+%Di bawah ini yang termasuk huruf idghom bilaghunnah adalah...
++A. ء ه ح خ ع غ
++B. ب ج د ط ق
++C. ي ن م و
++D. ل ر
++D
++null
+ 

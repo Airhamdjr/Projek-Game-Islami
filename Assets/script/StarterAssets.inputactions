@@ -1,0 +1,54 @@
+{
+    "name": "StarterAssets",
+    "maps": [
+        {
+            "name": "Capsule",
+            "id": "9fb583af-d22e-47e1-a6b6-a96ef0818055",
+            "actions": [
+                {
+                    "name": "Shooting",
+                    "type": "PassThrough",
+                    "id": "555f64b3-c853-4ec5-a7f1-a8b6dc3fb5bf",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Aiming",
+                    "type": "PassThrough",
+                    "id": "bec6c00c-c680-4921-9e8d-352fde361f93",
+                    "expectedControlType": "",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "c586cf72-44a5-4462-bc27-1106d79187b4",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Shooting",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "ae441ea8-f73a-4cc7-bdb2-4b6cfc778086",
+                    "path": "<Mouse>/rightButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Aiming",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

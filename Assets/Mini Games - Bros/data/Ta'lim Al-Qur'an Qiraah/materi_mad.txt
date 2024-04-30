@@ -1,0 +1,64 @@
+Pada kalimat الصَّاخَّة adalah contoh dari mad ... 
++A. Mad Jaiz Munfasil			
++B. Mad ‘Aridh Lissukun
++C. Mad Lazim Khilmi Mutsaqqal	
++D. Mad Lain
++C	
++2
+
+%Pada lafadz عَلِيْمًا حَكِيْمًا terdapat mad...
++A. Mad Badal
++B. Mad ‘Iwadh
++C. Mad Lien 	
++D. Mad Farq
++B
++3
+
+%Pada kalimat آمَنُوْ adalah contoh dari mad ...
++A. Mad ‘iwad				
++B. Mad Jaiz
++C. Mad Badal			 
++D. Mad Lain
++C
++4
+
+%Pada contoh آلْآنَ adalah contoh dari mad lazim....
++A. Harfi Mukhoffaf		
++B. Harfi Mutsaqqol
++C. Kilmi Mukhoffaf
++D. Kilmi Mutsaqqol
++C
++5
+
+%Pada contoh  الدَّابَّةْ adalah contoh dari mad lazim....
++A. Harfi Mukhoffaf			
++B. Harfi Mutsaqqol
++C. Kilmi Mukhoffaf			 
++D. Kilmi Mutsaqqol
++D
++6
+
+
+%Apabila ada ha’ dlomir tidak bertemu hamzah dan dibaca panjang 1 alif (2 harokat), maka hukum bacaannya disebut ...
++A. Mad Tamkin			
++B. Mad Shilah Qoshiroh
++C. Mad Shilah Thowilah			
++D. Mad Iwadl
++B
++null
+
+%Apabila ada ha’ dhomir diapit oleh huruf hidup dan tidak mengandung hamzah disebut…
++A. Mad shilah qoshiroh
++B. Mad tamkin
++C. Mad badal
++D. Mad lien
++A
++null
+
+%Panjang dari mad farq adalah…. Alif
++A. 3
++B. 2
++C. 1
++D. 1,5
++A
++null

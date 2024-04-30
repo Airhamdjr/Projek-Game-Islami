@@ -1,0 +1,32 @@
+Hukum mempelajari ilmu tajwid adalah ....
++A. Fardu kifayah
++B. Fardu ‘ain
++C. Sunnah
++D. Haram
++A
++null
+
+%Hukum mengamalkan Tajwid adalah....
++A. Fardu kifayah
++B. Fardu ‘ain
++C. Sunnah
++D. Haram
++B
++null
+
+%Berikut yang termasuk metode membaca Alqur’an adalah...
++A. Tahqiq, idzhar, tartil, ikhfa’
++B. Tahqiq, tartil, tadwir, hadr
++C. Tartil, idgham, tafkhim, hadr
++D. Tafkhim, idzhar, ikhfa’, idgham
++B
++null
+
+%Membaca Alqur’an dengan sangat cepat, sehingga seakan-akan tidak jelas suaranya dinamakan metode...
++A. Tahqiq		
++B. Tartil
++C. Hadr 
++D. Tadwir
++C
++null
+

@@ -1,0 +1,1735 @@
+fileFormatVersion: 2
+guid: 3a5930b2daab79a469307d8eec92eaa3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6777726587249227665
+    second: Amulets 64x64_0
+  - first:
+      213: -8726758891981613756
+    second: Amulets 64x64_1
+  - first:
+      213: 4477026059731288099
+    second: Amulets 64x64_2
+  - first:
+      213: -3157144217039763053
+    second: Amulets 64x64_3
+  - first:
+      213: -5387503586379771150
+    second: Amulets 64x64_4
+  - first:
+      213: 2156545819222160178
+    second: Amulets 64x64_5
+  - first:
+      213: 7078943232962263348
+    second: Amulets 64x64_6
+  - first:
+      213: 2427549298319590728
+    second: Amulets 64x64_7
+  - first:
+      213: 3528026766321234867
+    second: Amulets 64x64_8
+  - first:
+      213: -7066313067298995018
+    second: Amulets 64x64_9
+  - first:
+      213: -2423704704710556091
+    second: Amulets 64x64_10
+  - first:
+      213: -7040839111072765551
+    second: Amulets 64x64_11
+  - first:
+      213: 5869887846858433873
+    second: Amulets 64x64_12
+  - first:
+      213: -1125848375581536145
+    second: Amulets 64x64_13
+  - first:
+      213: -1833780105676900804
+    second: Amulets 64x64_14
+  - first:
+      213: 2405831687346191840
+    second: Amulets 64x64_15
+  - first:
+      213: 3081668229772398503
+    second: Amulets 64x64_16
+  - first:
+      213: 8464777813188679866
+    second: Amulets 64x64_17
+  - first:
+      213: -6258528355877985032
+    second: Amulets 64x64_18
+  - first:
+      213: -4852537875182923307
+    second: Amulets 64x64_19
+  - first:
+      213: 6278016079941152699
+    second: Amulets 64x64_20
+  - first:
+      213: 186984149095197778
+    second: Amulets 64x64_21
+  - first:
+      213: 2378997230252571018
+    second: Amulets 64x64_22
+  - first:
+      213: 8856868122703523373
+    second: Amulets 64x64_23
+  - first:
+      213: -2238096557928946578
+    second: Amulets 64x64_24
+  - first:
+      213: -2674684346172177133
+    second: Amulets 64x64_25
+  - first:
+      213: 7433058005115853743
+    second: Amulets 64x64_26
+  - first:
+      213: 1508925155874214247
+    second: Amulets 64x64_27
+  - first:
+      213: 4100909105820171740
+    second: Amulets 64x64_28
+  - first:
+      213: -130374758925304350
+    second: Amulets 64x64_29
+  - first:
+      213: -3140247250756002436
+    second: Amulets 64x64_30
+  - first:
+      213: -163145528037277650
+    second: Amulets 64x64_31
+  - first:
+      213: -1265664600432601683
+    second: Amulets 64x64_32
+  - first:
+      213: -8062299753217464879
+    second: Amulets 64x64_33
+  - first:
+      213: -2291469357096461399
+    second: Amulets 64x64_34
+  - first:
+      213: 3267240006756726791
+    second: Amulets 64x64_35
+  - first:
+      213: 4727756025240139227
+    second: Amulets 64x64_36
+  - first:
+      213: -8074921234412307037
+    second: Amulets 64x64_37
+  - first:
+      213: -7301532360030389345
+    second: Amulets 64x64_38
+  - first:
+      213: -6631025687972482689
+    second: Amulets 64x64_39
+  - first:
+      213: -7467002694071322870
+    second: Amulets 64x64_40
+  - first:
+      213: -1722352503806218310
+    second: Amulets 64x64_41
+  - first:
+      213: 5150020591172584429
+    second: Amulets 64x64_42
+  - first:
+      213: -6684896030911581557
+    second: Amulets 64x64_43
+  - first:
+      213: 120811416592955612
+    second: Amulets 64x64_44
+  - first:
+      213: 4232941773534014997
+    second: Amulets 64x64_45
+  - first:
+      213: -1059255804976160280
+    second: Amulets 64x64_46
+  - first:
+      213: 2908942882731273558
+    second: Amulets 64x64_47
+  - first:
+      213: -7268176344303162239
+    second: Amulets 64x64_48
+  - first:
+      213: -1465852362012777585
+    second: Amulets 64x64_49
+  - first:
+      213: 7474962511774284917
+    second: Amulets 64x64_50
+  - first:
+      213: 6744161824415505956
+    second: Amulets 64x64_51
+  - first:
+      213: 398084105713337532
+    second: Amulets 64x64_52
+  - first:
+      213: -5918125179911058371
+    second: Amulets 64x64_53
+  - first:
+      213: 2033444307457759809
+    second: Amulets 64x64_54
+  - first:
+      213: 8397562489361652850
+    second: Amulets 64x64_55
+  - first:
+      213: 8694638005321742676
+    second: Amulets 64x64_56
+  - first:
+      213: -6690289048302031158
+    second: Amulets 64x64_57
+  - first:
+      213: 4944331500024770057
+    second: Amulets 64x64_58
+  - first:
+      213: -3058730055189521858
+    second: Amulets 64x64_59
+  - first:
+      213: -474958876788629089
+    second: Amulets 64x64_60
+  - first:
+      213: -4544773004192159286
+    second: Amulets 64x64_61
+  - first:
+      213: 522779531699833872
+    second: Amulets 64x64_62
+  - first:
+      213: 7038726137347533308
+    second: Amulets 64x64_63
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b280578d4315854ab2ab64b7920f42b
+      internalID: 6878805666410467414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009c5e3ab61ce144187154a19b3746c1
+      internalID: -6742740023908330493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_2
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4aa2305cbcca1478cf6d66880110e4
+      internalID: -4609343431555635868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_3
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b4edff1af70a243993f00908342837
+      internalID: 933910120917424918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 353752dee9cc9f3499a236197a8dae12
+      internalID: 688404675844630355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_5
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b55db727e2c8d468e18e65409543e1
+      internalID: -4199895925068026656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4b48189770d6aa4888ef011b033fcdb
+      internalID: 6301643548209578700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_7
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79ef3b3d8e6bf448b372fac8712ccea
+      internalID: 7322049968764766335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587af90e309ca644888d34bb4bda2e74
+      internalID: 130595198378080699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_9
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b8e3bffaad9124eb025aab50f55ddd
+      internalID: 7270786654611239108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7ed68073aa11f48bb5e6069c434d10
+      internalID: -5907097760226538064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_11
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0196cc27e3684c04cb11251a466a6c93
+      internalID: 92304680047295570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_12
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942fc2294845ffa40af5904f728962fd
+      internalID: -2643667645432238888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0416162c5ecc113468bf7cbb96939e60
+      internalID: -2824143860321513752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_14
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 297182cc93e0bf9489c37e19f859dd3c
+      internalID: -408749723204124414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_15
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 384
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b404a35268dd37741ba6273c6019c3e8
+      internalID: 2038029111241678428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 181ebce88afa080499cde9b315366b47
+      internalID: 4871166578138812742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_17
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c5f33be14f634748a0ec50cbe0ae316
+      internalID: 4590461415305794840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_18
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 327b749cdb023e0459123e9687106156
+      internalID: 2719162070456404294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_19
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e928555d23bc4db4fa97f229a537af30
+      internalID: 3867326575751322509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a69d0ccfbde63834aa6cf0d19c52fff0
+      internalID: -1493795530189428881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13813f0a5222471479d302b3bd786a31
+      internalID: -6566489956440558929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fa5cd7425f3074bb08b39d97a76f3a
+      internalID: 4593229170027868932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_23
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b520b4ade7d07604596d421b566da7a8
+      internalID: -3908276681320377829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acdab36981f98b8459f67818762d2dcf
+      internalID: -1669316252229447612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29875119957cf06489ceff6b169f15b3
+      internalID: -8011733943269029547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_26
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059c1222e4c376a45b0cc4e0ea3905b7
+      internalID: 6881962089097343514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_27
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf4a2733733c2b7438dfedde77943549
+      internalID: -2936024383368785145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_28
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c5f11e9c9b286447b315ab5faa679e5
+      internalID: -4169672082810332987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_29
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9267978593e911b4080a79a81cab9b56
+      internalID: 1735624318820648422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e181840021d47614c851f49d3a668b0b
+      internalID: -7440617279399234008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_31
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 518829bfc22ff2b4fb47afb2c2af72e9
+      internalID: 2558041249051742352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622e08adf3c8ecb44af1c528f376b465
+      internalID: -8359876675244945592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_33
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdad26db399708049a2de2bf3fb65429
+      internalID: -4765306024215712660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_34
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1f9bb8f49198e4c8f09d911ec2c03c
+      internalID: 7298069286489296063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_35
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f92dcdffdb872e543925de718f8153d8
+      internalID: 3143034562124608745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_36
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33a8f37712760dc4183b0d30ae8b5dab
+      internalID: -1535075037846767707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_37
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83302c9ce2e588d418f80494b13da6e1
+      internalID: 2785750741203833233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_38
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a1a35668e41874bafe43ceb5c5b435
+      internalID: 4779752728137703589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_39
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0388d59026efd0348ad2a33756b1c62a
+      internalID: -1329222695782861234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4aa76be341a93d449b39e012dc542906
+      internalID: 3215306663095221389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_41
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4944d4843a29f469dbdbdc35e075c6
+      internalID: 6725463695446719669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_42
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a387f043ca8f67f49ade6e6811367af9
+      internalID: -5830236007310151144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_43
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 435b57e023de60f4fb610f2f0f961c32
+      internalID: -200635823223793150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3de744b11e88a4c87158ebb0cb6212
+      internalID: -6666574594519449342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_45
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9e6799b511df340993af0cce01ab90
+      internalID: 3820222000146836974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_46
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de0885d7ce6e69e48b4039819bb394a9
+      internalID: -6214689096493177643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_47
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4669cb6af9b29ab4caefe8376f8b16c2
+      internalID: -4241387152899402478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5214653a391775f47ba9d8419ba38a38
+      internalID: 707997991760880272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_49
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8acde38097d2cd144955580c5c3c7788
+      internalID: 884072478992168643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0430757f5d762054abb2f688b25cb44e
+      internalID: 3341948703289143392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_51
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb4926b5c24f4341be2ca8d2de64fa9
+      internalID: 2587800450184656482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eab7763243688f48a259aeb12e43471
+      internalID: -3519631634717941989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_53
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de683e4086f0b04d9bdbb5f36091827
+      internalID: -1577413378830466865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5589ae6adb1ed47866f82c96fa6d64
+      internalID: -2395882171968796376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_55
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 091d2857f74f8fe43a12828f223c7653
+      internalID: -4204336039766406401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcd41aeef32a03c4889867c07d4e0d36
+      internalID: -8995724438074844564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_57
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca3b26d3a3d7f946a5d739a11439773
+      internalID: -5610651481731939279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_58
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e13d64314f5847d40b9c527a0d74e56b
+      internalID: 5905214331213099751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_59
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1264102b2bbf644d867e270fb136f4b
+      internalID: 2417864966252308130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_60
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f749140ec9424df4b9cb8ccb1571f579
+      internalID: -7358178991141861580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_61
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5158c84639ce59e499bf0ab845ffb89e
+      internalID: 3118437220007022249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_62
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd1f12ce7e35b87478081e60f347efb9
+      internalID: -7442675582360028633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amulets 64x64 Outline_63
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 981ed96f5d840a443a88019f0ae517c0
+      internalID: -7676294710189163894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Amulets 64x64 Outline_46: -6214689096493177643
+      Amulets 64x64 Outline_47: -4241387152899402478
+      Amulets 64x64 Outline_40: 3215306663095221389
+      Amulets 64x64 Outline_62: -7442675582360028633
+      Amulets 64x64 Outline_24: -1669316252229447612
+      Amulets 64x64 Outline_23: -3908276681320377829
+      Amulets 64x64 Outline_17: 4590461415305794840
+      Amulets 64x64 Outline_20: -1493795530189428881
+      Amulets 64x64 Outline_9: 7270786654611239108
+      Amulets 64x64 Outline_7: 7322049968764766335
+      Amulets 64x64 Outline_11: 92304680047295570
+      Amulets 64x64 Outline_0: 6878805666410467414
+      Amulets 64x64 Outline_13: -2824143860321513752
+      Amulets 64x64 Outline_42: -5830236007310151144
+      Amulets 64x64 Outline_45: 3820222000146836974
+      Amulets 64x64 Outline_14: -408749723204124414
+      Amulets 64x64 Outline_31: 2558041249051742352
+      Amulets 64x64 Outline_2: -4609343431555635868
+      Amulets 64x64 Outline_5: -4199895925068026656
+      Amulets 64x64 Outline_41: 6725463695446719669
+      Amulets 64x64 Outline_51: 2587800450184656482
+      Amulets 64x64 Outline_63: -7676294710189163894
+      Amulets 64x64 Outline_25: -8011733943269029547
+      Amulets 64x64 Outline_15: 2038029111241678428
+      Amulets 64x64 Outline_16: 4871166578138812742
+      Amulets 64x64 Outline_29: 1735624318820648422
+      Amulets 64x64 Outline_38: 4779752728137703589
+      Amulets 64x64 Outline_35: 3143034562124608745
+      Amulets 64x64 Outline_27: -2936024383368785145
+      Amulets 64x64 Outline_1: -6742740023908330493
+      Amulets 64x64 Outline_55: -4204336039766406401
+      Amulets 64x64 Outline_36: -1535075037846767707
+      Amulets 64x64 Outline_39: -1329222695782861234
+      Amulets 64x64 Outline_8: 130595198378080699
+      Amulets 64x64 Outline_54: -2395882171968796376
+      Amulets 64x64 Outline_49: 884072478992168643
+      Amulets 64x64 Outline_43: -200635823223793150
+      Amulets 64x64 Outline_50: 3341948703289143392
+      Amulets 64x64 Outline_26: 6881962089097343514
+      Amulets 64x64 Outline_33: -4765306024215712660
+      Amulets 64x64 Outline_48: 707997991760880272
+      Amulets 64x64 Outline_58: 5905214331213099751
+      Amulets 64x64 Outline_18: 2719162070456404294
+      Amulets 64x64 Outline_60: -7358178991141861580
+      Amulets 64x64 Outline_12: -2643667645432238888
+      Amulets 64x64 Outline_28: -4169672082810332987
+      Amulets 64x64 Outline_32: -8359876675244945592
+      Amulets 64x64 Outline_56: -8995724438074844564
+      Amulets 64x64 Outline_3: 933910120917424918
+      Amulets 64x64 Outline_61: 3118437220007022249
+      Amulets 64x64 Outline_22: 4593229170027868932
+      Amulets 64x64 Outline_52: -3519631634717941989
+      Amulets 64x64 Outline_30: -7440617279399234008
+      Amulets 64x64 Outline_59: 2417864966252308130
+      Amulets 64x64 Outline_4: 688404675844630355
+      Amulets 64x64 Outline_57: -5610651481731939279
+      Amulets 64x64 Outline_21: -6566489956440558929
+      Amulets 64x64 Outline_34: 7298069286489296063
+      Amulets 64x64 Outline_10: -5907097760226538064
+      Amulets 64x64 Outline_19: 3867326575751322509
+      Amulets 64x64 Outline_6: 6301643548209578700
+      Amulets 64x64 Outline_53: -1577413378830466865
+      Amulets 64x64 Outline_37: 2785750741203833233
+      Amulets 64x64 Outline_44: -6666574594519449342
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

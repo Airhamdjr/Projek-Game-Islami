@@ -1,0 +1,89 @@
+Siapakah nabi yang dikenal sebagai "Nabi Akhir Zaman" dalam Islam?
++Nabi Adam
++Nabi Ibrahim
++Nabi Isa
++Nabi Muhammad
++D
++NPC Furqon
++Nabi dan Rasul
+
+#Siapakah Nabi yang diberikan kitab suci Zabur dalam ajaran Islam?
++Nabi Musa
++Nabi Isa
++Nabi Dawud
++Nabi Sulaiman
++C
++NPC Furqon
++4.Berpuasa
+
+#Apa perbedaan utama antara Nabi dan Rasul dalam Islam?
++Jumlah pengikut
++Tempat kelahiran
++Menerima wahyu untuk disampaikan
++Kepemimpinan politik
++C
++NPC Furqon
++Nabi dan Rasul
+
+#Siapakah Nabi yang dikenal sebagai Nabi yang bersabar?
++Nabi Zakaria
++Nabi Ibrahim
++Nabi Yusuf
++Nabi Ayyub
++D
++NPC Furqon
++Nabi dan Rasul
+
+#Siapa nama malaikat yang menyerahkan wahyu kepada Nabi Muhammad?
++Malaikat Jibril
++Malaikat Mikail
++Malaikat Israfil
++Malaikat Mungkar
++A
++NPC Furqon
++Nabi dan Rasul
+
+#Siapakah Rasul yang diutus kepada kaum Ad di dalam Al-Qur'an?
++Nabi Hud
++Nabi Saleh
++Nabi Shu'aib
++Nabi Musa
++A
++NPC Furqon
++Nabi dan Rasul
+
+#Apa mukjizat utama Nabi Musa yang terkenal dalam Al-Qur'an?
++Pembelahan laut
++Air yang keluar dari batu
++Pembelahan laut
++Menghidupkan orang mati
++A
++NPC Furqon
++Nabi dan Rasul
+
+#Siapa Nabi pertama?
++Nabi Hud
++Nabi Saleh
++Nabi Adam
++Nabi Musa
++C
++NPC Furqon
++Nabi dan Rasul
+
+#Apa mukjizat Nabi Isa yang terkenal dalam Al-Qur'an?
++Berbicara sejak bayi
++Menyembuhkan orang buta
++Membangkitkan orang mati
++Membelah bulan
++C
++NPC Furqon
++Nabi dan Rasul
+
+#Apa salah satu mukjizat Nabi Muhammad SAW di bawah ini?
++Berbicara Dengan Hewan
++Berbicara Sejak Bayi
++Pembelah Lautan
++Membelah Bulan
++A
++NPC Furqon
++Nabi dan Rasul

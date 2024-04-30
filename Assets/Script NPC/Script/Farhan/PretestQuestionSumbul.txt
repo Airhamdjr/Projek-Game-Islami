@@ -1,0 +1,91 @@
+Berapakah jumlah rukun Islam?
++3
++4
++5
++6
++C
++NPC Sumbul
++Seputar Islam
+
+#Apa hukum utama yang diatur oleh zakat?
++Menyembelih hewan
++Berpuasa
++Memberikan sumbangan kepada fakir miskin
++Menunaikan ibadah haji
++C
++NPC Sumbul
++Seputar Islam
+
+#Siapakah istri pertama Nabi Muhammad?
++Aisyah
++Khadijah
++Fatimah
++Hafsa
++B
++NPC Sumbul
++Seputar Islam
+
+#Siapakah Khalifah pertama setelah wafatnya Nabi Muhammad?
++Umar bin Khattab
++Ali bin Abi Thalib
++Abu Bakar as-Siddiq
++Uthman bin Affan
++C
++NPC Sumbul
++Seputar Islam
+
+#Apa syarat sahnya shalat?
++Zakat
++Hajj
++Wudhu
++Puasa
++C
++NPC Sumbul
++Seputar Islam
+
+#Apa yang dilakukan umat Islam selama bulan Ramadan?
++Puasa
++Salat Jumat
++Umrah
++Zakat
++A
++NPC Sumbul
++Seputar Islam
+
+#Apa nama bulan yang dianggap suci dalam Islam?
++Syawal
++Dzulhijjah
++Rajab
++Ramadhan
++D
++NPC Sumbul
++Seputar Islam
+
+#Apa istilah untuk hari kiamat dalam Islam?
++Yawm al-Qiyamah
++Laylat al-Qadr
++Yawm al-Jumu'ah
++Yawm an-Nahr
++A
++NPC Sumbul
++Seputar Islam
+
+#Apa salah satu dari Asmaul Husna yang berarti Maha Pengampun?
++Ar-Rahman
++Al-Malik
++Al-Ghafur
++Al-Wahhab
++C
++NPC Sumbul
++Seputar Islam
+
+#Berapakah umur Nabi Muhammad ketika menerima wahyu pertama dari Allah?
++30 tahun
++35 tahun
++40 tahun
++45 tahun
++C
++NPC Sumbul
++Seputar Islam
+
+

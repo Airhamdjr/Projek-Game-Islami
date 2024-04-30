@@ -1,0 +1,409 @@
+fileFormatVersion: 2
+guid: 686a589f867b4d948886dcb742a2cfed
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 0
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_0
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 155
+        width: 1209
+        height: 1011
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acff772524a6e1d45aa1df3914ed45bc
+      internalID: -567943776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_1
+      rect:
+        serializedVersion: 2
+        x: 1439
+        y: 964
+        width: 1003
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96eb731d66ac24f40926fe7fac0ccf07
+      internalID: 460469009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_2
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 829
+        width: 558
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce16f0edfcf6024418f388a914896c70
+      internalID: -1735457825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_3
+      rect:
+        serializedVersion: 2
+        x: 2086
+        y: 286
+        width: 358
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6440c111fcb44e245bda06b645f0ac9b
+      internalID: 2045521740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_4
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 846
+        width: 119
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efeea538d79654f4c96af7440687a207
+      internalID: 1324428807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_5
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 698
+        width: 88
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47521cf2f2eab784b9c4bc430aad375c
+      internalID: -1405470492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_6
+      rect:
+        serializedVersion: 2
+        x: 1569
+        y: 698
+        width: 468
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 116f6a37131b75f46893a0b473108b7f
+      internalID: 1118782853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_7
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 738
+        width: 119
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d84c614571bac48af351a1f032a20f
+      internalID: -1187876323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_8
+      rect:
+        serializedVersion: 2
+        x: 1436
+        y: 0
+        width: 608
+        height: 659
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf390c5921619c543b0b5aa391dea820
+      internalID: 2009361384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_9
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 627
+        width: 119
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f3d7f8966a5a6e48964aee4429ed500
+      internalID: 419364208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_10
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 510
+        width: 119
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03c8c4469c651347a7854de7773eb03
+      internalID: 791184150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_11
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 412
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6588d7f6f1cf2bc45ada6c3cc79b94fd
+      internalID: -1991105484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pertanyaan Pengalaman Scene (Opt) (2)_12
+      rect:
+        serializedVersion: 2
+        x: 2101
+        y: 128
+        width: 328
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17d245d09f43320479df98adbb234f31
+      internalID: 2144019772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b1d9cec2868f2104ebcbc6bb22f7f556
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Pertanyaan Pengalaman Scene (Opt) (2)_6: 1118782853
+      Pertanyaan Pengalaman Scene (Opt) (2)_5: -1405470492
+      Pertanyaan Pengalaman Scene (Opt) (2)_10: 791184150
+      Pertanyaan Pengalaman Scene (Opt) (2)_8: 2009361384
+      Pertanyaan Pengalaman Scene (Opt) (2)_2: -1735457825
+      Pertanyaan Pengalaman Scene (Opt) (2)_1: 460469009
+      Pertanyaan Pengalaman Scene (Opt) (2)_3: 2045521740
+      Pertanyaan Pengalaman Scene (Opt) (2)_9: 419364208
+      Pertanyaan Pengalaman Scene (Opt) (2)_12: 2144019772
+      Pertanyaan Pengalaman Scene (Opt) (2)_0: -567943776
+      Pertanyaan Pengalaman Scene (Opt) (2)_11: -1991105484
+      Pertanyaan Pengalaman Scene (Opt) (2)_4: 1324428807
+      Pertanyaan Pengalaman Scene (Opt) (2)_7: -1187876323
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
